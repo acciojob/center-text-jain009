@@ -1,6 +1,8 @@
-/*  your css code here. If applicable */
-#ab{
-	text-align:center;
-	
-	
+body {
+    background-image: url('https://storage.googleapis.com/acciojob-open-file-collections/center-image.png');
+}
+
+#ab h1 {
+    color: white;
+    text-align: center;
 }
