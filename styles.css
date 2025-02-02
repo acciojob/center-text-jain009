@@ -5,7 +5,8 @@ body {
 }
 #ab{  background-image: url('https://storage.googleapis.com/acciojob-open-file-collections/center-image.png');
 	width: 100%;
-	height: 100%;
+	height: 90vh;
+	
    }
 #ab h1 {
     color: white;
