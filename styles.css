@@ -1,19 +1,23 @@
 body {
 	background-color:rgba(0,0,0,0);
-	
+	background-size:cover; 
+	background-repeat: no-repeat;
+	background-image: url('https://storage.googleapis.com/acciojob-open-file-collections/center-image.png');
 
 }
-#ab{  background-image: url('https://storage.googleapis.com/acciojob-open-file-collections/center-image.png');
-	width: 90%;
-	height: 90vh;
-	/* display:flex; */
-	size:auto;
+#ab{  
 	
-    /* align-items: center; */
+	width:100px;
+	height: 100px;
+	display:flex;
+	justify-content:center;
+    align-items: center;
+	text-align:center:
 	
    }
 #ab h1 {
     color: white;
     text-align: center;
+	length: center;
 
 }
