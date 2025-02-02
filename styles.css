@@ -4,8 +4,12 @@ body {
 
 }
 #ab{  background-image: url('https://storage.googleapis.com/acciojob-open-file-collections/center-image.png');
-	width: 100%;
+	width: 90%;
 	height: 90vh;
+	/* display:flex; */
+	size:auto;
+	
+    /* align-items: center; */
 	
    }
 #ab h1 {
